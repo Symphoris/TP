@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: etudiant
+Build-Jdk: 10.0.2
+Main-Class: reservation-restServer.App
+Created-By: Maven Integration for Eclipse
+
